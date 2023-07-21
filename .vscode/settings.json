@@ -1,0 +1,13 @@
+{
+"emmet.includeLanguages": {
+   "django-html": "html"
+},
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none",
+    "html.format.enable": false,
+    "[django-html]": {
+    "editor.formatOnSave": false
+  },
+}
